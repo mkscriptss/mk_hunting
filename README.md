@@ -12,10 +12,10 @@ Buyers download every update from [portal.cfx.re](https://portal.cfx.re) → Gra
 ## Update check
 
 This repository holds the release history only – no source code. When the resource starts, the server console
-tells you if a newer version is published here:
+tells you if a newer version is published here (turn it off with `set mk_versioncheck false` in server.cfg):
 
 ```
-[mk_hunting] update available: v1.0.0 → v1.0.1 – https://github.com/mkscriptss/mk_hunting/releases/latest
+[mk_hunting] update available: v1.0.0 -> v1.0.1 https://github.com/mkscriptss/mk_hunting/releases/tag/v1.0.1
 ```
 
 ## Support
