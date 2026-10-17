@@ -2,7 +2,7 @@
 
 Complete hunting system: zones, server-side wildlife, skinning minigame, hide quality, butcher, grill, blood samples, quests, trophies, live admin editor and a hunter tablet
 
-**Latest version:** `1.0.2` · [Changelog](CHANGELOG.md) · [Releases](https://github.com/mkscriptss/mk_hunting/releases)
+**Latest version:** `1.0.3` · [Changelog](CHANGELOG.md) · [Releases](https://github.com/mkscriptss/mk_hunting/releases)
 
 ## Where to get it
 

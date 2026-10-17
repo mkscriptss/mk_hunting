@@ -1,5 +1,20 @@
 # MK Hunting – Changelog
 
+## 1.0.3 – 2026-10-17
+
+### Added
+- New hunting GPS: a realistic handheld device with a satellite map that turns with your view, compass, walked trail, nearest animal, elevation and the animals around you
+- Turn the GPS on / off by using the hunting_gps item, with /gps or an optional key – the choice is remembered
+- Hunting rifles (Musket, Sniper Rifle) are for animals only: no damage to players or NPCs (config: riflesOnlyAnimals)
+- Skinning needs the knife in your hand, with a new realistic skinning animation
+
+### Fixed
+- The GPS no longer looks see-through in game
+
+### Changed
+- The hunting map item is replaced by the hunting_gps item (update your inventory items – see install/items)
+- The GPS shows only while you carry the GPS item (config: needsItem) and can be bought from level 1
+
 ## 1.0.2 – 2026-10-16
 
 ### Changed
